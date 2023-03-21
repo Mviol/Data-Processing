@@ -1,5 +1,5 @@
-# Data Processing
-Preprocessing and scikit-learn
-Machine Learning
-Decision Tree
-Classifiers
+# Data Processing /
+Preprocessing and scikit-learn /
+Machine Learning /
+Decision Tree /
+Classifiers /
